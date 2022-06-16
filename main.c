@@ -1,6 +1,4 @@
 #include "minishell.h"
-
-
 /**
  * main - entry point
  *

@@ -1,5 +1,4 @@
 #include "minishell.h"
-
 /**
  * readline_error - User input reading error
  *
