@@ -1,6 +1,6 @@
 #include <signal.h>
 #include <unistd.h>
-#include "minishell.h"
+#include "shell.h"
 
 /**
  * signal_handler - prints a new prompt upon a signal

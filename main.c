@@ -1,6 +1,4 @@
-#include "minishell.h"
-
-
+#include "shell.h"
 /**
  * main - entry point
  *

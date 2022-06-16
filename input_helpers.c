@@ -1,6 +1,4 @@
-#include "minishell.h"
-
-
+#include "shell.h"
 /**
  * get_user_input - read user input from stdin
  *
